@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a7e3970-955c-4ef5-878c-e9623ebd0780" name="Default Changelist" comment="" />
+    <list default="true" id="0a7e3970-955c-4ef5-878c-e9623ebd0780" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\IDEAProjects\web-mvc\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -40,7 +49,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -84,12 +93,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624799315521</updated>
-      <workItem from="1624799318238" duration="6113000" />
+      <workItem from="1624799318238" duration="9119000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit of web-mvc">
+      <created>1624806495580</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624806495580</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit of web-mvc">
+      <created>1624806532935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624806532935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit of web-mvc" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit of web-mvc" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="44" key="#Project_Structure" timestamp="1624804691440">
@@ -100,10 +128,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="446" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624805524274" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1624806495001">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1624806532453">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624806495001" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624806532453" />
     <state x="421" y="127" key="FileChooserDialogImpl" timestamp="1624806388362">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -124,9 +152,13 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state width="1238" height="191" key="GridCell.Tab.0.right/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624804805600" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1624804677197">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1624809916472">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624804677197" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624809916472" />
+    <state x="233" y="119" key="Vcs.Push.Dialog.v2" timestamp="1624810962576">
+      <screen x="0" y="0" width="1280" height="770" />
+    </state>
+    <state x="233" y="119" key="Vcs.Push.Dialog.v2/0.0.1280.770/2560.194.1536.834@0.0.1280.770" timestamp="1624810962576" />
   </component>
 </project>
