@@ -15,6 +15,7 @@ import java.io.File;
 public class Server {
 
     public static void main(String[] args) throws LifecycleException {
+        // 服务器
         Tomcat tomcat = new Tomcat();
         tomcat.setPort(Integer.getInteger("port", 8080));
         tomcat.getConnector();
